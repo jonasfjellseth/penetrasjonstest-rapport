@@ -43,10 +43,9 @@ penetrasjonstest-rapport/
 │── scripts/
 │   ├── base64_encode.py
 │   └── base64_decode.py
-
+```
 ---
 
 ## ⚠️ Disclaimer
-
 Dette prosjektet ble gjennomført i et lukket testmiljø og inneholder kun dokumentasjon for lærings- og porteføljeformål.
 Innholdet skal ikke benyttes til uautorisert aktivitet.
