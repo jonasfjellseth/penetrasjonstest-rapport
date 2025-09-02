@@ -1,7 +1,7 @@
 # 🛡️ Penetrasjonstest Rapport 
 
 ## 📌 Formål
-Dette prosjektet dokumenterer en pentest av nettbutikken **Boris Lockpicks**, gjennomført av fiktive bedriften **Black-Box Security**.  
+Dette prosjektet dokumenterer en pentest av en tilsvarende webapplikasjonapp som DVWA, gjennomført av fiktive bedriften **Black-Box Security**.  
 Målet med pentesten var å simulere et realistisk angrep basert på metodene en ondsinnet aktør kunne brukt, identifisere sårbarheter i systemet, og gi anbefalinger for forbedringer.  
 
 ---
